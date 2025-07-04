@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Italian Uncut",
+    "description": "",
+    "home_page_url": "https://theitalianuncut.ch",
+    "feed_url": "https://theitalianuncut.ch/feed.json",
+    "user_comment": "",
+    "icon": "https://theitalianuncut.ch/media/website/Cover-Italian-Uncut-330x80-Regular-2.png",
+    "author": {
+        "name": "The Italian Uncut"
+    },
+    "items": [
+        {
+            "id": "https://theitalianuncut.ch/post-lorem.html",
+            "url": "https://theitalianuncut.ch/post-lorem.html",
+            "title": "Post Lorem",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ligula massa, maximus a ultricies a, ornare nec ante. Pellentesque fermentum sollicitudin vulputate. Vivamus sollicitudin at odio eu aliquam. Curabitur eu orci in urna pellentesque blandit eu ac tellus. Vivamus quis sem ut leo tempor semper.",
+            "content_html": "<div id=\"lipsum\">\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ligula massa, maximus a ultricies a, ornare nec ante. Pellentesque fermentum sollicitudin vulputate. Vivamus sollicitudin at odio eu aliquam. Curabitur eu orci in urna pellentesque blandit eu ac tellus. Vivamus quis sem ut leo tempor semper. Suspendisse potenti. Proin luctus nunc eu suscipit venenatis. Praesent congue pharetra nunc eget commodo. Aliquam erat volutpat. Proin suscipit tortor purus, a blandit mi elementum eu. Quisque nec pharetra elit. Donec quis neque at neque luctus gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas cursus in tellus ac eleifend. Fusce mollis quam dui, quis pulvinar nisl interdum eget. Suspendisse ut leo ultricies diam cursus mattis in et diam.</p>\n<p>Proin eu molestie urna. Sed ac posuere lorem, a cursus nisl. Mauris sit amet ultrices ipsum. Pellentesque mollis porta massa, ut hendrerit libero condimentum ac. Aliquam sodales et orci id sodales. Fusce eget purus id nibh euismod interdum. Mauris vitae lorem nisi. Donec volutpat lacus vel magna lobortis, eu aliquam risus porttitor. Donec posuere erat nec arcu molestie auctor. Nulla nec pretium nulla, in semper magna. Nullam arcu mauris, dignissim ac facilisis id, feugiat nec felis.</p>\n<p>Curabitur ullamcorper leo vel nisl aliquam facilisis. Cras id erat quis eros bibendum mollis. Nulla vel nisl arcu. Maecenas congue nisi sed dui efficitur cursus. Praesent vitae laoreet felis, non laoreet sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin suscipit erat eu tellus ullamcorper, eu semper turpis vehicula. In hac habitasse platea dictumst. Morbi non risus rutrum, eleifend sapien nec, elementum massa. Vestibulum nec arcu quis eros efficitur convallis sed nec erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>\n<p>Ut pretium orci quis risus feugiat, quis vehicula tellus feugiat. Morbi malesuada justo in gravida viverra. Vestibulum sodales tempus dolor, elementum volutpat dolor iaculis non. Maecenas at felis nisi. Nullam eget elit accumsan, egestas tellus vitae, imperdiet ligula. Vivamus pharetra iaculis arcu, dapibus condimentum diam. Vivamus vel est sed turpis tempor commodo id ut urna. Mauris pretium arcu turpis, finibus porta justo sollicitudin in. Phasellus id suscipit risus. Aliquam erat volutpat. Suspendisse venenatis, libero eget faucibus pharetra, erat nisl elementum sapien, dapibus tempus lacus urna et tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus faucibus risus id elementum maximus. Nunc venenatis quam id massa interdum, nec tempus urna suscipit.</p>\n<p>Donec nisl arcu, efficitur non odio non, efficitur molestie nunc. Nunc dolor risus, luctus ac est et, vehicula luctus leo. Donec a turpis interdum, accumsan lacus ut, sollicitudin lorem. Quisque dapibus velit mattis urna molestie, in interdum lectus volutpat. Curabitur ut quam eleifend, placerat ante vitae, iaculis magna. Aenean commodo, metus et imperdiet scelerisque, sapien tortor imperdiet lectus, sit amet fringilla lorem orci sit amet lorem. Cras ipsum sem, commodo sit amet est ac, congue mollis ipsum. Morbi tempus justo vitae justo venenatis sollicitudin. Integer dolor nunc, volutpat a finibus ac, tempor aliquet diam. Suspendisse et ex vel velit venenatis convallis ac aliquet nisi. Proin aliquet sagittis neque, nec tristique velit rhoncus a. Maecenas aliquam lobortis nunc, sit amet efficitur enim feugiat vitae.</p>\n</div>",
+            "author": {
+                "name": "The Italian Uncut"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-03T16:12:13+02:00",
+            "date_modified": "2025-07-03T16:12:13+02:00"
+        },
+        {
+            "id": "https://theitalianuncut.ch/hello-world.html",
+            "url": "https://theitalianuncut.ch/hello-world.html",
+            "title": "Hello world",
+            "summary": "Just the usual hello world post...",
+            "content_html": "<p>Just the usual hello world post...</p>",
+            "author": {
+                "name": "The Italian Uncut"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-03T16:06:58+02:00",
+            "date_modified": "2025-07-03T16:06:58+02:00"
+        }
+    ]
+}
