@@ -682,7 +682,7 @@
           });
 
           if (response.ok) {
-            window.location.href = '/thank-you.html';
+            window.location.href = '/thank-you';
           } else {
             const data = await response.json();
             alert(`Error: ${data.error || 'Please try again.'}`);
