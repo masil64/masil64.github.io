@@ -1189,7 +1189,7 @@ textarea {
           transform: translate(-50%, 0);
 }
 .hero__content {
-  padding-bottom: calc(var(--baseline) * 6 + 1.5vw);
+  padding-bottom: calc(var(--baseline) * 3 + 1.5vw);
 }
 .hero__content h1 > sup {
   font-size: 1.066666667rem;
